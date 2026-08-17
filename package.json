@@ -1,0 +1,12 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start": "node server.js"
+  },
+  "author": "Tommy",
+  "license": "ISC",
+  "description": ""
+}
